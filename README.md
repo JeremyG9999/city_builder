@@ -18,3 +18,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/JeremyG9999/city_builder.git
 cd city_builder
+pip install -r requirements.txt
