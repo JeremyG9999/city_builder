@@ -1,17 +1,18 @@
-# City Builder
+# 🏙️ City Builder
 
-A terminal-based city-building simulation game in Python. Manage resources, population, research, and production as your city advances through different ages.
+🧱 A terminal-based city-building simulation game in Python.  
+Manage resources, population, research, and production as your city advances through different ages.
 
-## Features
+## 🛠️ Features
 
-- Manage multiple resources: Food, Wood, Metal, Wealth, Knowledge  
-- Assign citizens to different jobs (Farmers, Woodcutters, Merchants, Scholars, Miners)  
-- Progress through distinct ages with unique challenges and benefits  
-- Conduct research in Military, Civics, Commerce, and Science  
-- Pause, save, and load game states (via pause menu)  
-- Responsive terminal interface adapting to window size  
+- 🌾 **Manage multiple resources**: Food, Wood, Metal, Wealth, Knowledge  
+- 👷 **Assign citizens to jobs**: Farmers, Woodcutters, Merchants, Scholars, Miners  
+- 🕰️ **Progress through ages**: Unique challenges and benefits with each era  
+- 🧪 **Conduct research**: Military, Civics, Commerce, and Science  
+- 💾 **Pause, save, and load**: Manage game states via pause menu  
+- 📐 **Responsive UI**: Adapts to terminal window size  
 
-## Getting Started
+## 🚀 Getting Started
 
 Clone the repository:
 
