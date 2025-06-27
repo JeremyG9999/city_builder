@@ -5,12 +5,23 @@ Manage resources, population, research, and production as your city advances thr
 
 ## 🛠️ Features
 
-- 🌾 **Manage multiple resources**: Food, Wood, Metal, Wealth, Knowledge  
-- 👷 **Assign citizens to jobs**: Farmers, Woodcutters, Merchants, Scholars, Miners  
-- 🕰️ **Progress through ages**: Unique challenges and benefits with each era  
-- 🧪 **Conduct research**: Military, Civics, Commerce, and Science  
-- 💾 **Pause, save, and load**: Manage game states via pause menu  
-- 📐 **Responsive UI**: Adapts to terminal window size  
+- 🌾 **Manage multiple resources**  
+  Food, Wood, Metal, Wealth, Knowledge  
+
+- 👷 **Assign citizens to jobs**  
+  Farmers, Woodcutters, Merchants, Scholars, Miners  
+
+- 🕰️ **Progress through ages**  
+  Unique challenges and benefits with each era  
+
+- 🧪 **Conduct research**  
+  Military, Civics, Commerce, and Science  
+
+- 💾 **Pause, save, and load**  
+  Manage game states via pause menu  
+
+- 📐 **Responsive UI**  
+  Adapts to terminal window size  
 
 ## 🚀 Getting Started
 
