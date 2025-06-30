@@ -1,6 +1,7 @@
 import os
 
 from game_scripts.city_builder import CityBuilderGame
+from game_scripts.chart import generate_resource_chart
 from database_layer.db_file import setup_db, load_game, delete_saved_game
 
 class Menu:
@@ -12,7 +13,8 @@ class Menu:
             print("1. Start New Game (Press p to pause)")
             print("2. Load Last Saved Data")
             print("3. Delete Saved Data")
-            print("4. Exit")
+            print("4. View Saved Data Chart")
+            print("5. Exit")
             choice = input("Enter your choice: ")
 
             if choice == "1":
@@ -26,10 +28,13 @@ class Menu:
                 print("Saved data deleted.")
             elif choice == "4":
                 self.cls()
+                generate_resource_chart()
+            elif choice == "5":
+                self.cls()
                 break
             else:
                 self.cls()
-                print("Invalid choice. Please enter a number from 1 to 4.")
+                print("Invalid choice. Please enter a number from 1 to 5.")
 
     def load_and_start_game(self):
         data = load_game()
